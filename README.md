@@ -32,7 +32,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 ## 📂 Estrutura do Projeto
 ├── 📄 index.html # Arquivo principal da estrutura da página
-├── 🎨 style.css # Folha de estilos
+├── 🎨 style.css # Folha de estilos\
 ├── ⚙️ app.js # Lógica principal do jogo
 ├── 🖼️ img/ # Pasta com as imagens utilizadas
 └── 📄 README.md # Este arquivo
