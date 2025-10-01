@@ -1,11 +1,6 @@
 # 🎮 Jogo do Número Secreto
 
-![Badge de Status](https://img.shields.io/badge/status-conclu%C3%ADdo-green)
-
 Um jogo simples e interativo para adivinhar um número secreto, desenvolvido com tecnologias web front-end básicas. O projeto foi criado como parte da Imersão DevOps da Alura.
-
-![Uma captura de tela da interface do jogo, mostrando o título "Jogo do Número Secreto", um campo para inserir um número e os botões "Chutar" e "Novo Jogo"](./img/ia.png) 
-> **Nota:** Você pode substituir a imagem acima por uma captura de tela real do seu jogo!
 
 ## 🚀 Como Jogar
 
